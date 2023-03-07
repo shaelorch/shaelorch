@@ -1,15 +1,14 @@
 ### Hi 👋 I'm Shae Lorch!
 
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/shaelynlorch/">LinkedIn</a>
+📫 How to reach me: <a href="https://www.linkedin.com/in/shaelynlorch/">
+  LinkedIn
+
+</a>
 
 
 
-<img src='https://github-readme-stats.vercel.app/api?username=shaelorch&show_icons=true&theme=radical&hide=contribs' height='150"'>
+<img src='https://github-readme-stats.vercel.app/api?username=shaelorch&show_icons=true&theme=radical&hide=contribs' height='150'>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=akasaki1211&layout=compact&theme=github_dark' height='150' >
 
 
